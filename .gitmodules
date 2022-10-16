@@ -1,0 +1,3 @@
+[submodule "Submodules/BedrocKTools"]
+	path = Submodules/BedrocKTools
+	url = https://github.com/kishtarn555/BedrocKTools.git
